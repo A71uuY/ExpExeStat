@@ -13,5 +13,10 @@
     "exp_name": "failed_lr_1e-1",
     "exp_time": "02-13-16-05-2026",
     "exp_output": -1
-  }
+  },
+  {
+  "exp_name": "test_running_exp",
+  "exp_time": "30-15-16-05-2026",
+  "exp_output": 0
+}
 ]
