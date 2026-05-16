@@ -1,22 +1,26 @@
 [
   {
+    "event_id": 1,
     "exp_name": "baseline_resnet50_cifar10",
     "exp_time": "12-10-16-05-2026",
-    "exp_output": 1
+    "exp_output": "started"
   },
   {
-    "exp_name": "ablation_no_dropout",
-    "exp_time": "35-11-16-05-2026",
-    "exp_output": 1
+    "event_id": 2,
+    "exp_name": "baseline_resnet50_cifar10",
+    "exp_time": "35-10-16-05-2026",
+    "exp_output": "success"
   },
   {
+    "event_id": 3,
     "exp_name": "failed_lr_1e-1",
     "exp_time": "02-13-16-05-2026",
-    "exp_output": -1
+    "exp_output": "started"
   },
   {
-  "exp_name": "test_running_exp",
-  "exp_time": "30-15-16-05-2026",
-  "exp_output": 0
-}
+    "event_id": 4,
+    "exp_name": "failed_lr_1e-1",
+    "exp_time": "10-13-16-05-2026",
+    "exp_output": "failed"
+  }
 ]
