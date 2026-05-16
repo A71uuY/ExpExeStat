@@ -22,5 +22,11 @@
     "exp_name": "failed_lr_1e-1",
     "exp_time": "10-13-16-05-2026",
     "exp_output": "failed"
+  },
+  {
+  "event_id": 5,
+  "exp_name": "test_new_exp",
+  "exp_time": "30-16-16-05-2026",
+  "exp_output": "started"
   }
 ]
